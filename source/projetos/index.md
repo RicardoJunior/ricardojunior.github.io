@@ -1,6 +1,7 @@
 ---
-title: projects
+title: Projetos
 type: projects
+includeMenu: true
 projects:
   -
     title: Spectre
