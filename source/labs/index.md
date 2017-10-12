@@ -1,6 +1,7 @@
 ---
-title: labs
+title: Labs
 type: labs
+includeMenu: true
 labs:
   -
     date: 15/03/1996
