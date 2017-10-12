@@ -1,4 +1,5 @@
 ---
-title: BLOG
+title: Blog
 type: blog
+includeMenu: true
 ---
